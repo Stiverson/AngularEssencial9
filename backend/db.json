@@ -1,0 +1,21 @@
+{
+
+  "products": [
+    {
+      "id":1,
+      "name": "Caneta BIC Preta",
+      "price": 5.20
+      },{
+        
+        "id":2,
+        "name": "Pc da nasa",
+        "price": 1200.00
+      },
+      {
+        
+        "id":3,
+        "name": "microfone top",
+        "price": 80.00
+      }
+  ]
+}
